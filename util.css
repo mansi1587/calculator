@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+  }
+  
+  .bg-clr{
+    background-color: orange;
+  }
+  
+  
+  .flex{
+    display: flex;
+    
+  }
+  
+  .flex-dir{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
